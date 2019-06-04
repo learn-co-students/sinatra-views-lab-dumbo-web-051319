@@ -7,6 +7,7 @@
 
 ## Overview
 
+
 This lesson practices creating ERB views and rendering them from a Sinatra
 Action in response to an HTTP request. Fork and clone this repository and run
 `bundle install` to get started!
